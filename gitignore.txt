@@ -1,0 +1,3 @@
+Game/.idea/
+Game/__pycache__
+Game/venv/
